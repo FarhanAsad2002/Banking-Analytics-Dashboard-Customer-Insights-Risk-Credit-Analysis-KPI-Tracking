@@ -58,14 +58,15 @@ To design a **scalable, data-driven financial analytics solution** that transfor
 ## Results & Business Recommendations:
 
 The dashboard provides a **comprehensive financial intelligence layer**, enabling stakeholders to monitor customer behavior, assess risk, and optimize business performance.
-![Customer Analysis 1](Screenshot/pg-3_customer_analysis_1.png)
-![Customer Analysis 2](Screenshot/pg-4_customer_analysis_2.png)
+![Customer Analysis 1](Screenshot/pg-3_Customer_Analysis_1.png)
+![Customer Analysis 2](Screenshot/pg-4_Customer_Analysis_2.png)
 
 ### Key Insights:
 - Customers aged **30–40 represent the highest-value segment**  
 - **Married and homeowners contribute the majority of total balance**  
 - Customers with **no loan default exhibit significantly higher financial value**  
-- Customer acquisition growth is higher than balance growth → indicating **potential low-value customer inflow**  
+- Customer acquisition growth is higher than balance growth → indicating **potential low-value customer inflow**
+![Trend Analysis](Screenshot/pg-5_Trend_Analysis.png)
 
 ### Strategic Recommendations:
 1. Focus on **high-value customer segments** through personalized financial products  
