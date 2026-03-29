@@ -1,6 +1,6 @@
 # Banking-Analytics-Dashboard-Customer-Insights-Credit-Risk-Analysis-KPI-Tracking
 
-# 📊 Data-Driven Customer Segmentation & Financial Analytics for Retail Banking
+# Data-Driven Customer Segmentation & Financial Analytics for Retail Banking
 
 ---
 
@@ -22,13 +22,13 @@ By leveraging **customer segmentation, financial analysis, and KPI monitoring**,
 
 Retail banks generate vast volumes of financial and customer data, yet often lack **centralized business intelligence systems** to convert this data into actionable insights. This leads to inefficiencies in **customer targeting, risk assessment, and revenue optimization**.
 
-### 🔍 Key Business Questions:
+### Key Business Questions:
 - Which **customer segments drive the highest balance and profitability**?  
 - How does **customer behavior vary across demographic and financial dimensions**?  
 - What is the relationship between **credit risk (loan default) and customer value**?  
 - How can banks optimize **customer acquisition, retention, and portfolio performance**?  
 
-### 🎯 Objective:
+### Objective:
 To design a **scalable, data-driven financial analytics solution** that transforms raw banking data into **actionable insights**, enabling **strategic decision-making and performance optimization**.
 
 ---
@@ -57,13 +57,13 @@ To design a **scalable, data-driven financial analytics solution** that transfor
 
 The dashboard provides a **comprehensive financial intelligence layer**, enabling stakeholders to monitor customer behavior, assess risk, and optimize business performance.
 
-### 📈 Key Insights:
+### Key Insights:
 - Customers aged **30–40 represent the highest-value segment**  
 - **Married and homeowners contribute the majority of total balance**  
 - Customers with **no loan default exhibit significantly higher financial value**  
 - Customer acquisition growth is higher than balance growth → indicating **potential low-value customer inflow**  
 
-### 💡 Strategic Recommendations:
+### Strategic Recommendations:
 1. Focus on **high-value customer segments** through personalized financial products  
 2. Implement **risk-based credit strategies** using customer segmentation  
 3. Improve **customer retention and lifetime value (CLV)** for premium segments  
