@@ -21,6 +21,7 @@ By leveraging **customer segmentation, financial analysis, and KPI monitoring**,
 ## Business Problem:
 
 Retail banks generate vast volumes of financial and customer data, yet often lack **centralized business intelligence systems** to convert this data into actionable insights. This leads to inefficiencies in **customer targeting, risk assessment, and revenue optimization**.
+![Business Problem](Images/Business_Problem.png)
 
 ### Key Business Questions:
 - Which **customer segments drive the highest balance and profitability**?  
@@ -35,17 +36,18 @@ To design a **scalable, data-driven financial analytics solution** that transfor
 
 ## Methodology:
 
+![Methadology](Images/Methadology.png)
 - Extracted and transformed data using **SQL, ETL processes, and data modeling techniques**  
 - Developed an **interactive Power BI dashboard** with dynamic segmentation filters  
 - Applied **DAX calculations** to derive KPIs such as total balance, average balance, and growth metrics  
 - Conducted **financial analysis, customer segmentation, and trend analysis** to uncover behavioral patterns  
-- Integrated **risk analysis frameworks** to evaluate loan default impact on customer value  
-
+- Integrated **risk analysis frameworks** to evaluate loan default impact on customer value
+  
 ---
 
 ## Skills:
 
-**SQL:** Data Extraction, Joins, Aggregations, Data Cleaning  
+**SQL:** CTE, Data Extraction, Joins, Aggregations, Data Cleaning  
 
 **Power BI:** Data Modeling, DAX, KPI Dashboards, Data Visualization, ETL  
 
