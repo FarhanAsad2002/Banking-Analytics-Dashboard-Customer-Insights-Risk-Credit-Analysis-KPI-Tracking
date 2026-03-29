@@ -58,6 +58,8 @@ To design a **scalable, data-driven financial analytics solution** that transfor
 ## Results & Business Recommendations:
 
 The dashboard provides a **comprehensive financial intelligence layer**, enabling stakeholders to monitor customer behavior, assess risk, and optimize business performance.
+![Customer Analysis 1](Screenshot/pg-3_customer_analysis_1.png)
+![Customer Analysis 2](Screenshot/pg-4_customer_analysis_2.png)
 
 ### Key Insights:
 - Customers aged **30–40 represent the highest-value segment**  
